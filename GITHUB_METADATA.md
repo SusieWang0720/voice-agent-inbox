@@ -6,11 +6,11 @@
 
 ## About
 
-Full-stack voice agent inbox built with Tencent RTC Chat SDK for persistent chat threads, AI summaries, unread follow-up, and human handoff.
+Free-edition voice agent inbox built with Tencent RTC Chat SDK for persistent chat threads, AI summaries, unread follow-up, and human handoff.
 
 ## Website
 
-`https://console.trtc.io`
+`https://trtc.io/free-chat-api`
 
 ## Topics
 
@@ -47,4 +47,3 @@ Secondary:
 Do not describe this as a generic Tencent demo. The public story is:
 
 > Voice AI can answer a call. Tencent RTC Chat SDK keeps the work alive after the call.
-
