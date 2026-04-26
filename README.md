@@ -4,7 +4,7 @@ Turn voice agent calls into persistent chat threads with **Tencent RTC Chat SDK*
 
 This is a full-stack Next.js starter for teams building voice AI products where the work should not disappear after the call ends. A caller speaks to a voice agent, the agent extracts intent, creates a summary, routes human handoff when needed, and keeps every follow-up inside a durable Tencent RTC Chat SDK conversation.
 
-Built for the **Tencent RTC Chat free edition**. Start here: [trtc.io/free-chat-api](https://trtc.io/free-chat-api), then use the [TRTC Console](https://console.trtc.io) to get your `SDKAppID`.
+Built for **Tencent RTC Chat, free forever**. Start here: [trtc.io/free-chat-api](https://trtc.io/free-chat-api), then use the [TRTC Console](https://console.trtc.io) to get your `SDKAppID`.
 
 ![Voice Agent Inbox preview](./public/preview.svg)
 
@@ -63,7 +63,7 @@ The default mode is mock mode, so the app runs without Tencent RTC Chat SDK cred
 
 ## Connect Tencent RTC Chat SDK
 
-1. Start from the [Tencent RTC Chat free edition](https://trtc.io/free-chat-api).
+1. Start from [Tencent RTC Chat, free forever](https://trtc.io/free-chat-api).
 2. Open the [TRTC Console](https://console.trtc.io).
 3. Create or select a Tencent RTC Chat application.
 4. Copy your `SDKAppID`.
@@ -111,5 +111,5 @@ Suggested GitHub topics:
 ## Links
 
 - [TRTC Console](https://console.trtc.io)
-- [Tencent RTC Chat free edition](https://trtc.io/free-chat-api)
+- [Tencent RTC Chat, free forever](https://trtc.io/free-chat-api)
 - [Tencent RTC Chat documentation](https://trtc.io/document)

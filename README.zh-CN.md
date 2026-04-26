@@ -4,7 +4,7 @@
 
 这个项目不是普通的 AI 聊天框，而是一个面向真实业务的 Next.js 全栈 starter：用户先和语音 Agent 通话，Agent 总结意图、生成下一步动作，需要人工处理时把会话交给人类同事，并且所有后续消息都保留在 Tencent RTC Chat SDK 的持久会话里。
 
-本项目面向 **Tencent RTC Chat 免费版** 构建。先看免费版入口：[trtc.io/free-chat-api](https://trtc.io/free-chat-api)，然后到 [TRTC Console](https://console.trtc.io) 获取 `SDKAppID`。
+本项目面向 **Tencent RTC Chat 永久免费能力** 构建。先看永久免费入口：[trtc.io/free-chat-api](https://trtc.io/free-chat-api)，然后到 [TRTC Console](https://console.trtc.io) 获取 `SDKAppID`。
 
 ## 这个项目解决什么问题
 
@@ -40,7 +40,7 @@ npm run dev
 
 ## 接入 Tencent RTC Chat SDK
 
-1. 先打开 [Tencent RTC Chat 免费版](https://trtc.io/free-chat-api)
+1. 先打开 [Tencent RTC Chat 永久免费入口](https://trtc.io/free-chat-api)
 2. 再进入 [TRTC Console](https://console.trtc.io)
 3. 创建或选择 Tencent RTC Chat 应用
 4. 获取 `SDKAppID`

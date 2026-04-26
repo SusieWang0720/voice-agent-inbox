@@ -6,7 +6,7 @@
 
 ## About
 
-Free-edition voice agent inbox built with Tencent RTC Chat SDK for persistent chat threads, AI summaries, unread follow-up, and human handoff.
+Free-forever voice agent inbox built with Tencent RTC Chat SDK for persistent chat threads, AI summaries, unread follow-up, and human handoff.
 
 ## Website
 
